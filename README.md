@@ -1,16 +1,18 @@
-# mobile_auth_clean_arch
+# Mobile Authentication using Clean Architecture  
 
-A new Flutter project.
+Mobile Authentication using Clean Architecture is a Flutter-based project that implements phone number authentication with Firebase. It follows best practices for maintainability and scalability, ensuring a structured and efficient authentication flow.  
 
-## Getting Started
+## Features  
+- Phone number authentication using Firebase  
+- OTP verification  
+- Clean Architecture implementation  
+- State management with Provider/BLoC (if applicable)  
 
-This project is a starting point for a Flutter application.
+## Screenshot  
+![App Screenshot](doc.png)  
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Setup Instructions  
+1. Clone the repository:  
+   ```sh
+   git clone https://github.com/yourusername/your-repo.git
+   cd your-repo
