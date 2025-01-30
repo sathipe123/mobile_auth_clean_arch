@@ -11,8 +11,4 @@ Mobile Authentication using Clean Architecture is a Flutter-based project that i
 ## Screenshot  
 ![App Screenshot](doc.png)  
 
-## Setup Instructions  
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+
