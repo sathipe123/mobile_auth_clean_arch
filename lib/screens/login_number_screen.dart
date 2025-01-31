@@ -22,7 +22,7 @@ class _LoginNumberScreenState extends State<LoginNumberScreen> {
     try {
       String phoneNumber = '$selectedCountryCode${phoneController.text}';
 
-      print("Formatted Phone Number: $phoneNumber");
+     // print("Formatted Phone Number: $phoneNumber");
 
       await FirebaseAuth.instance.verifyPhoneNumber(
         phoneNumber: phoneNumber,
